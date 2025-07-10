@@ -1,0 +1,14 @@
+- title: 'Topics'
+  description: 'Deep Learning, Computer Vision, Machine Learning, Video Understanding, Graph Networks, NLP, LLM, Object Detection, Medical AI, Diffusion Models, AI Agents, RAG'
+
+- title: 'Programming Languages'
+  description: 'Python, JavaScript'
+
+- title: 'Frameworks & Libraries'
+  description: 'PyTorch, TensorFlow, Keras, NumPy, Flask, OpenCV, HuggingFace, LangChain, FAISS'
+
+- title: 'Platforms & Tools'
+  description: 'Linux, Git, Docker, AWS, GCP Vertex AI, HPC'
+
+- title: 'Other Skills'
+  description: 'Research, Educating, Academic writing' 

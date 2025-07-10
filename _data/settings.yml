@@ -1,26 +1,17 @@
 menu:
-# - {name: 'people', url: '/people'}
-# - {name: 'publications', url: '/publications'}
+- {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-# - {name: 'contact', url: '/contact'}
-
-# people:
-# - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-# - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-# - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'contact', url: '/contact'}
 
 courses:
 - {name: 'Large Language Models [zerocoder.ru]', url: 'https://zerocoder.ru/prompt-engineer-with-ai-course'}
 - {name: 'Deep Learning [netology.ru]', url: 'https://netology.ru/programs/prodatascience'}
-# - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/mr-ivan-rodin'}
 - {icon: 'telegram', link: 'https://t.me/aimazing_materials'}
 - {icon: 'github', link: 'https://github.com/RodinIvan'}
-# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
-# contacts:
-# - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+contacts:
+- {name: 'Ivan Rodin', title: 'Postdoctoral Researcher', department: 'Computer Science', institution: 'University of Catania', institution_address: 'Catania, Italy', email: 'ivan.rodin@unict.it', image: 'assets/img/me_official_sq.jpg'}

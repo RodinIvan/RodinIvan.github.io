@@ -1,5 +1,19 @@
-# - title: 'Professor of Physics'
-#   description: 'McMaster University (2005 – present)'
+- title: 'Postdoctoral Researcher, collaboration with Intel Labs'
+  description: 'University of Catania, Italy (Jan. 2023 – Present)'
+  details: 'Proposed the novel concept of Egocentric Action Scene Graphs (EASG) for structured video understanding. Organized multi-stage custom dataset collection in AWS. Implemented multimodal LLM baselines for long-form video understanding tasks. Developed models for Scene Graph Generation from videos.'
 
-# - title: 'Associate Faculty'
-#   description: 'McGill University (1987 – 2005)'
+- title: 'Freelance Educator, Project Lead'
+  description: 'Netology → Zerocoder, Remote (Since Oct. 2021)'
+  details: 'Prepared and taught courses on Deep Learning, ML, LLM and AI agents for online educational platforms. Supervised students diplomas. Led the development of resume search optimization system for Zerocoder.ru. Advanced LLM course awarded "Breakthrough of the Year in Adult Education 2024".'
+
+- title: 'Researcher'
+  description: 'Philips Research, Eindhoven, Netherlands (May 2021 – July 2022)'
+  details: 'Organized the collection of video dataset of personal health activities. Developed web-based app for online action anticipation with video streaming from wearable devices. Implemented domain adaptation techniques to adapt SOTA action anticipation models for personal health domain.'
+
+- title: 'Intern Researcher → Research Scientist'
+  description: 'Philips Innovation Labs, Moscow, Russia (Feb. 2018 – July 2019)'
+  details: 'Developed SOTA model for Chest X-Ray pathologies classification and captioning. Performed research on multi-model interpretable neural networks for medical imaging domain, focusing on classification, captioning, and semi-supervised pathology localization.'
+
+- title: 'Data Engineer in Spam-detection department'
+  description: 'Kaspersky Labs, Moscow, Russia (Oct. 2015 – Sep. 2016)'
+  details: 'Worked on rule-based system for on-demand spam filtering. Performed feature engineering for ML-based filtering.'

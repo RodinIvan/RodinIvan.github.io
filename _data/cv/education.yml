@@ -1,8 +1,11 @@
-- title: 'B.Sc. Applied Mathematics and Informatics'
-  description: 'Higher School of Economics (2012-2016)'
+- title: 'Ph.D. in Computer Science'
+  description: 'University of Catania, Italy (Oct. 2019 – Jan. 2023)'
+  details: 'Marie Skłodowska-Curie grant. Thesis: Egocentric Action Anticipation. Focus: Computer vision, video understanding, untrimmed video processing, action anticipation'
 
-- title: 'M.Sc. Data Science'
-  description: 'Skolkovo Institute of Science and Technology (2017-2019)'
+- title: 'M.Sc. in Data Science'
+  description: 'Skolkovo Institute of Science and Technology, Moscow, Russia (Sept. 2017 – June 2019)'
+  details: 'Thesis: Interpretable analysis of Chest X-Rays with Deep Neural Networks. Courses: Deep Learning, Machine Learning, Optimization methods, Entrepreneurship & Innovation, Bayesian ML, Numerical Linear Algebra'
 
-- title: 'Ph.D. Computer Science'
-  description: 'University of Catania (2019-2023)'
+- title: 'B.Sc. in Applied Mathematics and Informatics'
+  description: 'Higher School of Economics, Moscow, Russia (Sept. 2012 – June 2016)'
+  details: 'Thesis: Visualization and Cluster Analysis of Dynamic Graphs. Courses: Calculus, Programming (C++, Python, Matlab, R), Game theory, Linear algebra, Numerical methods, Statistics, Data analysis, Machine learning, NLP'
